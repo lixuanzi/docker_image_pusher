@@ -1,3 +1,4 @@
 redis
 mysql
+mysql:5.7
 nginx
