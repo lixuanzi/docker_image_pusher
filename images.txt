@@ -1,6 +1,6 @@
-redis
+dkredis
 mysql:8.4.2
 mysql:5.7.44
 nginx
 gitlab/gitlab-runner:latest
-java:21
+openjdk:21
