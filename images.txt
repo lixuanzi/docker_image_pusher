@@ -4,3 +4,4 @@ mysql:5.7.44
 nginx
 gitlab/gitlab-runner:latest
 openjdk:21
+joxit/docker-registry-ui
