@@ -1,4 +1,3 @@
-dkredis
 mysql:8.4.2
 mysql:5.7.44
 nginx
